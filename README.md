@@ -1,4 +1,5 @@
 # Corona_Matlab
+Koronaya dair bir ülke istatistik sitesinden verileri çekip.
 
   Ülkelerin, 
   

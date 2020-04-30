@@ -17,11 +17,10 @@ Koronaya dair bir ülke istatistik sitesinden verileri çekip.
  
  g.Toplam vaka/ülke nüfusu oranını. 
  
- “covid19stats” adında bir excel dosyasına yazdıran MATLAB programında kodlamasını yapalım.
+ “covid19stats” adında bir excel dosyasına yazdıran Matlab programlama dili ile bir ecxel dosyasına verileri aktaracak şekilde kodlanmıştır.
  
  
- 
- Yukarıdaki verileri bir excel dosyası oluşturup içerisine atacak şekilde kodlanmıştır.
+
  
  
  

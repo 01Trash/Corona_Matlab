@@ -18,11 +18,11 @@ T = webread(url);
 %% “covid19stats” adında bir excel dosyasına yazdıran MATLAB programını kodlayınız.
 
 %%% Not: Dosya içerisinde ülkeler alfabetik sıraya göre sıralanacaktır.
-%%% Birinci sütunda ülke adı, sonraki sütunlarda sırayla a %dan g% ye
-%%% şıkların sonuçları yer alacaktır. Aşağıda bir örnek yer almaktadır.
+%%% Birinci sütunda ülke adı, sonraki sütunlarda sırayla a'dan g'ye
+%%% şıkların sonuçları yer alacaktır.
 
 
-%% Şimdi gelen veriyi kümeleme zamanı hadi o verileri düzenleyelim. (:
+%% Şimdi gelen veriyi kümeleme zamanı hadi o verileri düzenleyelim.
 [group, id] = findgroups(T.countriesAndTerritories);
 
 %Fonksiyon ile atama yapma.

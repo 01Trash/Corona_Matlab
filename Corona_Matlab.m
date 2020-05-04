@@ -1,4 +1,4 @@
-%%% Sürüm Matlab 2020a ile kodlanmıştır.
+%%% Matlab 2020a ile kodlanmıştır.
 
 
 clear all; close all; clc;

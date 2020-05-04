@@ -5,7 +5,7 @@ clear all; close all; clc;
 
 %% Verileri çekmek için.
 url='https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide.xlsx';
-T = webread(url)
+T = webread(url);
 
 %%  Buna göre ülkelerin,
 % %  a.Günlük ortalama vaka sayılarını,

@@ -1,9 +1,4 @@
 %%% Sürüm Matlab 2020a ile kodlanmıştır.
-% %  Bu projeye başladığımda bu kodları
-% % iki kişi nasıl çalıştığını biliyordu,
-% % birisi Tanrı'ydı birisi ben
-% % şimdi ise sadece tek kişi nasıl çalıştığını biliyor,
-% % oda Tanrı. :(
 
 
 clear all; close all; clc;

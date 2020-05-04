@@ -22,7 +22,7 @@ T = webread(url);
 %%% şıkların sonuçları yer alacaktır. Aşağıda bir örnek yer almaktadır.
 
 
-%% Şimdi gelen veriyi kümeleme zamanı hadi o verileri düzenleyelim dostum. (:
+%% Şimdi gelen veriyi kümeleme zamanı hadi o verileri düzenleyelim. (:
 [group, id] = findgroups(T.countriesAndTerritories);
 
 %Fonksiyon ile atama yapma.
